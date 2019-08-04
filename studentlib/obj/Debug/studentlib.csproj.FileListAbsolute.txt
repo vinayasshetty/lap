@@ -1,0 +1,16 @@
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\bin\Debug\studentlib.dll
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\bin\Debug\studentlib.pdb
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\obj\Debug\studentlib.csprojAssemblyReference.cache
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\obj\Debug\studentlib.csproj.CoreCompileInputs.cache
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\obj\Debug\studentlib.dll
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\obj\Debug\studentlib.pdb
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\bin\Debug\Newtonsoft.Json.dll
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\bin\Debug\System.Net.Http.Formatting.dll
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\bin\Debug\System.Web.Cors.dll
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\bin\Debug\System.Web.Http.Cors.dll
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\bin\Debug\System.Web.Http.dll
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\bin\Debug\Newtonsoft.Json.xml
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\bin\Debug\System.Net.Http.Formatting.xml
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\bin\Debug\System.Web.Http.xml
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\bin\Debug\System.Web.Http.Cors.xml
+F:\Valtech\visual studio\programs\Manjunatha\studentlib\obj\Debug\studentlib.csproj.CopyComplete
